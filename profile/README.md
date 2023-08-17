@@ -11,4 +11,5 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-<img width="124" alt="image" src="https://github.com/SWM-Porest/.github/assets/38347891/33050a2b-7c63-4125-b943-63c22321aea6">
+<img width="998" alt="image" src="https://github.com/SWM-Porest/.github/assets/38347891/2188639e-ba94-4812-9723-d8f185c516e7">
+
